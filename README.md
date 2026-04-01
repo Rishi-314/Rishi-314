@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+RAG+Systems+%7C+XAI+%7C+Deep+Learning+%F0%9F%A7%A0;B.Tech+AIML+%E2%80%94+VIT+Pune;Hackathon+Enthusiast+%F0%9F%9A%80+%7C+XR+Developer+%F0%9F%A5%BD;ML+%26+Backend+Engineer+%7C+Open+to+Collaborate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+RAG+Systems+%7C+XAI+%7C+Deep+Learning+%F0%9F%A7%A0;B.Tech+AIML+%E2%80%94+VIT+Pune;Hackathon+Enthusiast+%F0%9F%9A%80+%7C+LLMOps+Developer+%F0%9F%A5%BD;ML+%26+Backend+Engineer+%7C+Open+to+Collaborate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -33,7 +33,7 @@ class RishikeshBhagat:
 
     university  = "VIT Pune"
     degree      = "B.Tech — Artificial Intelligence & ML"
-    roles       = ["ML Engineer", "Backend Dev", "XR Developer"]
+    roles       = ["ML Engineer", "Backend Dev", "XR Developer", "LLMOps Dev"]
 
     interests   = [
         "RAG Systems",
