@@ -1,181 +1,268 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishikesh%20Bhagat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Backend%20%7C%20XR&descAlignY=58&descSize=20&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+AIML+%40+VIT+Pune;ML+%26+Backend+Developer;Building+RAG+%7C+XAI+%7C+Deep+Learning+Systems;Hackathon+Enthusiast+%F0%9F%9A%80;XR+Developer+%F0%9F%A5%BD" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=Rishikesh%20Bhagat&fontSize=65&fontColor=e2d9f3&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20XR%20Builder&descAlignY=62&descSize=18&descColor=a78bfa&animation=twinkling&stroke=7c3aed&strokeWidth=2" />
 
 <br/>
 
-<!-- Profile badges row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-Pune%2C%20India-success?style=for-the-badge" />
-</p>
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+RAG+Systems+%7C+XAI+%7C+Deep+Learning+%F0%9F%A7%A0;B.Tech+AIML+%E2%80%94+VIT+Pune;Hackathon+Enthusiast+%F0%9F%9A%80+%7C+XR+Developer+%F0%9F%A5%BD;ML+%26+Backend+Engineer+%7C+Open+to+Collaborate" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=7c3aed&label=profile+views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/focus-AI%20%26%20ML-7c3aed?style=flat-square&labelColor=1a0533" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/based%20in-Pune%2C%20India-a78bfa?style=flat-square&labelColor=1a0533" />
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<br/>
 
-### 👾 About Me
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="340px"/>
+
+### `~/whoami`
 
 ```python
 class RishikeshBhagat:
-    def __init__(self):
-        self.university  = "VIT Pune"
-        self.degree      = "B.Tech — AI & ML"
-        self.roles       = ["ML Engineer", "Backend Dev", "XR Developer"]
-        self.interests   = ["RAG Systems", "Model Explainability",
-                            "Deep Learning", "Hackathons"]
-        self.currently   = "Building fairness-aware AI systems"
-        self.fun_fact    = "I debug in Blender too 🧊"
+
+    university  = "VIT Pune"
+    degree      = "B.Tech — Artificial Intelligence & ML"
+    roles       = ["ML Engineer", "Backend Dev", "XR Developer"]
+
+    interests   = [
+        "RAG Systems",
+        "Model Explainability (XAI)",
+        "Deep Learning Architectures",
+        "Hackathons & Rapid Prototyping",
+    ]
+
+    currently_building = "Fairness-aware AI systems"
+    fun_fact           = "I debug in Blender too 🧊"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool.")
-
-me = RishikeshBhagat()
-me.say_hi()
+        print("Thanks for stopping by — let's build something awesome!")
 ```
 
 <br clear="right"/>
 
+<br/>
+
 ---
 
-## 🌐 Connect with Me
+<br/>
+
+## ✦ Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR-EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🧩 AI Concepts & Architectures
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-FF4B4B?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN--LSTM-0078D4?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP%20Explainability-2CA02C?style=for-the-badge)
-![TCN](https://img.shields.io/badge/TCN-F4A261?style=for-the-badge)
-
-### 🌐 Backend / APIs
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST-API-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🎮 XR / Design
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-</div>
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+<br/>
+
+## ✦ Tech Stack
 
 <div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ FairTrust AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-AI%20Ethics-blueviolet?style=flat-square" />
-      </p>
-      <p>
-        Bias Detection & Compliance System for hiring models. Implements fairness metrics, SHAP-based explainability, and a full Flask pipeline for transparent AI auditing.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
-        <img src="https://img.shields.io/badge/SHAP-2CA02C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ NyayaSulabh</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-LegalTech-blue?style=flat-square" />
-      </p>
-      <p>
-        AI-powered Legal Document Analyzer using Retrieval-Augmented Generation. Built with LangChain, Gemini API, and PostgreSQL for intelligent legal Q&A.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/RAG-00C7B7?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">📉 Liquidity Gap Detector</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-FinTech-orange?style=flat-square" />
-      </p>
-      <p align="center">
-        Deep Learning-based financial prediction system using RNN, LSTM, CNN-LSTM, and Temporal Convolutional Networks (TCN). Exposes results via a clean REST API.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LSTM-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/TCN-F4A261?style=flat-square" />
-        <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+**🧠 &nbsp;AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**🧩 &nbsp;Architectures & Concepts**
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-7c3aed?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00C7B7?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-FF4B4B?style=flat-square)
+![CNN--LSTM](https://img.shields.io/badge/CNN--LSTM-0078D4?style=flat-square)
+![TCN](https://img.shields.io/badge/TCN-F4A261?style=flat-square)
+![SHAP XAI](https://img.shields.io/badge/SHAP%20XAI-2CA02C?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 &nbsp;Backend / APIs**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![REST](https://img.shields.io/badge/REST%20API-4CAF50?style=flat-square)
+
+**🗄️ &nbsp;Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**🛠️ &nbsp;Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**🎮 &nbsp;XR / 3D**
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 Achievements
+<br/>
+
+## ✦ Featured Projects
 
 <div align="center">
 
-| 🏅 Award | 🎯 Event | 📍 Details |
-|:---:|:---:|:---:|
-| 🥈 **1st Runner-Up** | DecentraHack | PCCOE |
-| 🥉 **3rd Rank** | Genesis Hackathon | 400+ participants |
-| 🏅 **Top 20** | BlueBit 4.0 | 1400+ teams |
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<h3>⚖️ FairTrust AI</h3>
+
+<img src="https://img.shields.io/badge/AI%20Ethics-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+
+<br/><br/>
+
+Bias Detection & Compliance System for hiring models — fairness metrics, SHAP explainability, and a complete Flask audit pipeline.
+
+<br/><br/>
+
+`Flask` &nbsp;`SHAP` &nbsp;`Python` &nbsp;`Fairness ML`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>📜 NyayaSulabh</h3>
+
+<img src="https://img.shields.io/badge/LegalTech-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+
+<br/><br/>
+
+AI-powered Legal Document Analyzer using RAG — LangChain + Gemini API + PostgreSQL for intelligent legal Q&A at scale.
+
+<br/><br/>
+
+`RAG` &nbsp;`LangChain` &nbsp;`Gemini` &nbsp;`PostgreSQL`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>📉 Liquidity Gap Detector</h3>
+
+<img src="https://img.shields.io/badge/FinTech-F4A261?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+
+<br/><br/>
+
+Deep Learning financial prediction using RNN, LSTM, CNN-LSTM, and TCN architectures, served via a clean REST API.
+
+<br/><br/>
+
+`LSTM` &nbsp;`TCN` &nbsp;`PyTorch` &nbsp;`REST API`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<br/>
+
+---
+
+<br/>
+
+## ✦ Achievements
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/YOUR-USERNAME"><b>Rishikesh Bhagat</b></a> — Let's connect and build something awesome!</sub>
+
+<table>
+<tr>
+<td align="center" width="60px">🥈</td>
+<td><b>1st Runner-Up</b> &nbsp;—&nbsp; DecentraHack &nbsp;<sup>PCCOE</sup></td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><b>3rd Rank</b> &nbsp;—&nbsp; Genesis Hackathon &nbsp;<sup>400+ participants</sup></td>
+</tr>
+<tr>
+<td align="center">🏅</td>
+<td><b>Top 20</b> &nbsp;—&nbsp; BlueBit 4.0 &nbsp;<sup>1400+ teams</sup></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" />
+&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=a78bfa" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" />
+
+<br/><br/>
+
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=midnight_purple" />
+
+</div>
+
+<br/>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:2d1b69,100:0a0a0f&height=110&section=footer" />
+
+<div align="center">
+  <sup>crafted with intent by &nbsp;<a href="https://github.com/YOUR-USERNAME"><b>Rishikesh Bhagat</b></a>&nbsp;·&nbsp; ⭐ if something here sparked an idea</sup>
 </div>
