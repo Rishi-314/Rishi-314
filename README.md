@@ -232,14 +232,6 @@ Deep Learning financial prediction using RNN, LSTM, CNN-LSTM, and TCN architectu
 </table>
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:2d1b69,100:0a0a0f&height=110&section=footer" />
