@@ -61,15 +61,15 @@ class RishikeshBhagat:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/rishikeshbhagat/">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/Rishi-314">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:rishikesh2048x@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
