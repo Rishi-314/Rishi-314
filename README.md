@@ -26,7 +26,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="340px"/>
 
-### `~/whoami`
+### `My Introduction :)`
 
 ```python
 class RishikeshBhagat:
