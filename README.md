@@ -173,37 +173,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=radical&hide_border=true&layout=compact&bg_color=0D1117" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
