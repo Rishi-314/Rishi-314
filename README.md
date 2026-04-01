@@ -239,25 +239,6 @@ Deep Learning financial prediction using RNN, LSTM, CNN-LSTM, and TCN architectu
 
 <br/>
 
-## ✦ GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" />
-&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=a78bfa" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" />
-
-<br/><br/>
-
-<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=midnight_purple" />
-
-</div>
-
-<br/>
 
 ---
 
