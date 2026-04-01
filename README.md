@@ -1,10 +1,3 @@
-# Hi there 👋, I'm Rishikesh Bhagat  
-
-🎓 B.Tech AIML Student @ VIT Pune  
-💻 Machine Learning & Backend Developer  
-🤖 Building AI Systems (RAG, Explainability, Deep Learning)  
-🚀 Hackathon Enthusiast | XR Developer  
-
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -217,5 +210,3 @@ me.say_hi()
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/YOUR-USERNAME"><b>Rishikesh Bhagat</b></a> — Let's connect and build something awesome!</sub>
 </div>
-
-⭐️ From [Rishikesh Bhagat](https://github.com/YOUR-USERNAME)
