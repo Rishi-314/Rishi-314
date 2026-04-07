@@ -237,5 +237,5 @@ Deep Learning financial prediction using RNN, LSTM, CNN-LSTM, and TCN architectu
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:2d1b69,100:0a0a0f&height=110&section=footer" />
 
 <div align="center">
-  <sup>crafted with intent by &nbsp;<a href="https://github.com/YOUR-USERNAME"><b>Rishikesh Bhagat</b></a>&nbsp;·&nbsp; ⭐ if something here sparked an idea</sup>
+  <sup>crafted with intent by &nbsp;<a href="https://github.com/Rishi-314"><b>Rishikesh Bhagat</b></a>&nbsp;·&nbsp; ⭐ if something here sparked an idea</sup>
 </div>
