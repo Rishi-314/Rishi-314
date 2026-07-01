@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=Rishikesh%20Bhagat&fontSize=65&fontColor=e2d9f3&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20XR%20Builder&descAlignY=62&descSize=18&descColor=a78bfa&animation=twinkling&stroke=7c3aed&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=Rishikesh%20Bhagat&fontSize=65&fontColor=e2d9f3&fontAlignY=42&desc=AI%20Backend%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Deep%20Learning&descAlignY=62&descSize=18&descColor=a78bfa&animation=twinkling&stroke=7c3aed&strokeWidth=2" />
 
 <br/>
 
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+RAG+Systems+%7C+XAI+%7C+Deep+Learning+%F0%9F%A7%A0;B.Tech+AIML+%E2%80%94+VIT+Pune;Hackathon+Enthusiast+%F0%9F%9A%80+%7C+LLMOps+Developer+%F0%9F%A5%BD;ML+%26+Backend+Engineer+%7C+Open+to+Collaborate" alt="Typing SVG" />
+<a href="https://github.com/Rishi-314">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+RAG+Systems+%7C+XAI+%7C+Spring+Boot+APIs;AI+Backend+Developer+%E2%80%A2+VIT+Pune;B.Tech+AIML+%7C+Hackathon+Enthusiast+%F0%9F%9A%80;Deep+Learning+%7C+LLMOps+%7C+Open+to+Collaborate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=7c3aed&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=Rishi-314&style=flat-square&color=7c3aed&label=profile+views" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/focus-AI%20%26%20ML-7c3aed?style=flat-square&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/focus-AI%20Backend-7c3aed?style=flat-square&labelColor=1a0533" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/based%20in-Pune%2C%20India-a78bfa?style=flat-square&labelColor=1a0533" />
 
@@ -33,13 +33,13 @@ class RishikeshBhagat:
 
     university  = "VIT Pune"
     degree      = "B.Tech — Artificial Intelligence & ML"
-    roles       = ["ML Engineer", "Backend Dev", "XR Developer", "LLMOps Dev"]
+    roles       = ["AI Backend Developer", "Deep Learning Engineer", "Spring Boot Developer"]
 
     interests   = [
-        "RAG Systems",
+        "RAG Pipelines",
         "Model Explainability (XAI)",
-        "Deep Learning Architectures",
-        "Hackathons & Rapid Prototyping",
+        "Neural Network Architectures",
+        "Backend Systems & REST APIs",
     ]
 
     currently_building = "Fairness-aware AI systems"
@@ -87,7 +87,7 @@ class RishikeshBhagat:
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 **🧠 &nbsp;AI / ML**
 
@@ -96,36 +96,34 @@ class RishikeshBhagat:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**🧩 &nbsp;Architectures & Concepts**
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-7c3aed?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-00C7B7?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-FF4B4B?style=flat-square)
-![CNN--LSTM](https://img.shields.io/badge/CNN--LSTM-0078D4?style=flat-square)
-![TCN](https://img.shields.io/badge/TCN-F4A261?style=flat-square)
-![SHAP XAI](https://img.shields.io/badge/SHAP%20XAI-2CA02C?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**🌐 &nbsp;Backend / APIs**
+**☕ &nbsp;Backend Development**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![REST](https://img.shields.io/badge/REST%20API-4CAF50?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**🗄️ &nbsp;Databases**
+</td>
+<td valign="top" width="33%">
+
+**🗄️ &nbsp;Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**🛠️ &nbsp;Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 **🎮 &nbsp;XR / 3D**
 
@@ -159,11 +157,16 @@ class RishikeshBhagat:
 
 <br/><br/>
 
-Bias Detection & Compliance System for hiring models — fairness metrics, SHAP explainability, and a complete Flask audit pipeline.
+Ethical AI auditing framework for bias detection in hiring algorithms across gender, race, and caste.
 
-<br/><br/>
+**Key Features:**
+- 7 fairness dimensions (Demographic Parity, Equal Opportunity, Disparate Impact, Counterfactual Bias, Intersectional Bias)
+- SHAP-based explainability with role-based reports
+- Complete Flask audit pipeline
 
-`Flask` &nbsp;`SHAP` &nbsp;`Python` &nbsp;`Fairness ML`
+<br/>
+
+`Python` &nbsp;`SHAP` &nbsp;`Scikit-learn` &nbsp;`Pandas`
 
 </td>
 
@@ -176,11 +179,16 @@ Bias Detection & Compliance System for hiring models — fairness metrics, SHAP 
 
 <br/><br/>
 
-AI-powered Legal Document Analyzer using RAG — LangChain + Gemini API + PostgreSQL for intelligent legal Q&A at scale.
+AI-powered legal document analysis platform simplifying complex legal documents into concise summaries.
 
-<br/><br/>
+**Key Features:**
+- RAG implementation with Gemini API
+- PostgreSQL document storage
+- Mobile-first interface with document uploads, multilingual summaries, and real-time chat
 
-`RAG` &nbsp;`LangChain` &nbsp;`Gemini` &nbsp;`PostgreSQL`
+<br/>
+
+`RAG` &nbsp;`LangChain` &nbsp;`Gemini API` &nbsp;`PostgreSQL`
 
 </td>
 
@@ -193,11 +201,16 @@ AI-powered Legal Document Analyzer using RAG — LangChain + Gemini API + Postgr
 
 <br/><br/>
 
-Deep Learning financial prediction using RNN, LSTM, CNN-LSTM, and TCN architectures, served via a clean REST API.
+Real-time financial ML system to detect liquidity gaps using deep neural network architectures.
 
-<br/><br/>
+**Key Features:**
+- RNN, LSTM, CNN-LSTM, and TCN implementations with PyTorch
+- REST APIs with Flask
+- Dashboard integrating AI predictions with financial indicators
 
-`LSTM` &nbsp;`TCN` &nbsp;`PyTorch` &nbsp;`REST API`
+<br/>
+
+`LSTM` &nbsp;`TCN` &nbsp;`PyTorch` &nbsp;`Flask` &nbsp;`REST API`
 
 </td>
 
@@ -232,7 +245,51 @@ Deep Learning financial prediction using RNN, LSTM, CNN-LSTM, and TCN architectu
 </table>
 
 </div>
+
+<br/>
+
 ---
+
+<br/>
+
+## ✦ Tech Stack Summary
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | Java, Python, C, SQL |
+| **ML & Deep Learning** | PyTorch, RNN, LSTM, CNN-LSTM, TCN, NLP, RAG, Model Explainability (SHAP) |
+| **Backend Development** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT |
+| **Frameworks & Libraries** | Flask, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn |
+| **Tools & Platforms** | Git, GitHub, Maven, Postman, Swagger/OpenAPI |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishi-314&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-314&theme=radical&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-314&custom_title=Contribution%20Graph&bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=e2d9f3&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:2d1b69,100:0a0a0f&height=110&section=footer" />
 
