@@ -218,54 +218,6 @@ Real-time financial ML system to detect liquidity gaps using deep neural network
 </table>
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## ✦ Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="60px">🥈</td>
-<td><b>1st Runner-Up</b> &nbsp;—&nbsp; DecentraHack &nbsp;<sup>PCCOE</sup></td>
-</tr>
-<tr>
-<td align="center">🥉</td>
-<td><b>3rd Rank</b> &nbsp;—&nbsp; Genesis Hackathon &nbsp;<sup>400+ participants</sup></td>
-</tr>
-<tr>
-<td align="center">🏅</td>
-<td><b>Top 20</b> &nbsp;—&nbsp; BlueBit 4.0 &nbsp;<sup>1400+ teams</sup></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## ✦ Tech Stack Summary
-
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| **Programming Languages** | Java, Python, C, SQL |
-| **ML & Deep Learning** | PyTorch, RNN, LSTM, CNN-LSTM, TCN, NLP, RAG, Model Explainability (SHAP) |
-| **Backend Development** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT |
-| **Frameworks & Libraries** | Flask, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn |
-| **Tools & Platforms** | Git, GitHub, Maven, Postman, Swagger/OpenAPI |
-
-</div>
-
 <br/>
 
 ---
