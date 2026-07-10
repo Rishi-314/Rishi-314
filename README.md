@@ -227,10 +227,7 @@ Real-time financial ML system to detect liquidity gaps using deep neural network
 ## ✦ GitHub Stats
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-314&theme=radical&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
-
-<br/><br/>
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-314&custom_title=Contribution%20Graph&bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=e2d9f3&hide_border=true" />
 
