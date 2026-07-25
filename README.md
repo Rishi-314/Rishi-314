@@ -42,7 +42,7 @@ class RishikeshBhagat:
         "Backend Systems & REST APIs",
     ]
 
-    currently_building = "Fairness-aware AI systems"
+    currently_building = "Production Grade Recommendation systems"
     fun_fact           = "I debug in Blender too 🧊"
 
     def say_hi(self):
